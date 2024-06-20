@@ -1,0 +1,213 @@
+.statue-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    height: 500px;
+    margin: 0 auto;
+  }
+  .statue-hat{
+    width: 85px;
+    height: 5px;
+    background-color: rgb(231, 213, 188);
+    display: flex;
+    border-style: solid;
+  }
+  .statue-head-top{
+    width: 85px;
+    height: 20px;
+    background-color: tan;
+    display: flex;
+    border-style: solid;
+  }
+  .statue-head-middle{
+    width: 70px;
+    height: 5px;
+    background-color: rgb(231, 213, 188);
+    display: flex;
+    border-style: solid;
+  }
+  .statue-head-bottom{
+    border-style: solid;
+  }
+  .statue-head-bottom1{
+    width: 70px;
+    height: 20px;
+    background-color: tan;
+    display: flex;
+    justify-content: space-around;
+  }
+  .right-eye{
+    border-style: solid;
+    width: 12px;
+    height: 10px;
+    margin: 5px;
+    border-color: rgb(17, 17, 16);
+  }
+  .left-eye{
+    border-style: solid;
+    width: 12px;
+    height: 10px;
+    margin: 5px;
+    border-color: rgb(17, 17, 16);
+  }
+
+  .statue-head-bottom2{
+    width: 70px;
+    height: 20px;
+    background-color: tan;
+    display: flex;
+    justify-content: center;
+  }
+  .nose{
+    border-style: solid;
+    width: 10px;
+    border-color: rgb(17, 17, 16);
+  }
+  
+  .statue-head-bottom3{
+    width: 70px;
+    height: 20px;
+    background-color: tan;
+    display: flex;
+    justify-content: center;
+  }
+  .mouth{
+    border-style: solid;
+    width: 20px;
+    height: 7px;
+    margin: 5px;
+    border-color: rgb(17, 17, 16);
+  }
+  .statue-shoulders{
+    width: 100px;
+    height: 10px;
+    background-color: rgb(231, 213, 188);
+    border-style: solid;
+  }
+  .statue-top-torso{
+    width: 100px;
+    height: 50px;
+    background-color: tan;
+    display: flex;
+    justify-content: space-between;
+  }
+  .arms{
+    border-style: solid;
+    width: 20px;
+  }
+  .statue-middle-torso{
+    width: 110px;
+    height: 30px;
+    background-color: tan;
+    display: flex;
+    justify-content: space-between;
+  }
+  .hands{
+    border-style: solid;
+    width: 50px;
+    display: flex;
+  }
+  .manitos{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+  }
+  .deditos{
+    border-style: solid;
+    height: 3.8px;
+  }
+  .statue-torso {
+    width: 100px;
+    height: 20px;
+    background-color: tan;
+    border-style: solid;
+  }
+  .statue-hips-top{
+    width: 120px;
+    height: 10px;
+    background-color: rgb(231, 213, 188);
+   /*  margin-top: 20px; */
+    border-style: solid;
+  }
+  .statue-hips{
+    width: 120px;
+    height: 25px;
+    background-color: tan;
+ /*    margin-top: 20px; */
+    border-style: solid;
+  }
+  .statue-top-legs{
+    display: flex;
+  }
+  .statue-top-left-leg, .statue-top-right-leg{
+    width: 55px;
+    height: 50px;
+    background-color: rgb(185, 145, 92);
+    margin-top: 0px;
+    border-style: solid;
+  }
+
+  .statue-long-legs{
+    display: flex;
+  }
+  .statue-long-left-leg, .statue-long-right-leg{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(185, 145, 92);
+    margin-top: 0px;
+    border-style: solid;
+  }
+  .statue-long-legs-bottom{
+    display: flex;
+  }
+  .statue-long-left-leg-bottom, .statue-long-right-leg-bottom{
+    width: 40px;
+    height: 10px;
+    background-color: rgb(185, 145, 92);
+    margin-top: 0px;
+    border-style: solid;
+  }
+  .statue-legs {
+    display: flex;
+  }
+  .statue-left-leg, .statue-right-leg{
+    display: flex;
+    width: 50px;
+    height: 30px;
+    background-color: rgb(185, 145, 92);
+    margin-top: 0px;
+    border-style: solid;
+  }
+  .statue-top-foot {
+    display: flex;
+  }
+  .statue-top-left-foot, .statue-top-right-foot{
+    display: flex;
+    width: 50px;
+    height: 5px;
+    background-color: rgb(233, 215, 193);
+    margin-top: 0px;
+    border-radius: 5%;
+    border-style: solid;
+  }
+  .foot{
+    border-style: solid;
+    width: 20%;
+    border-radius: 5%;
+  }
+
+  
+  .statue-base {
+    width: 130px;
+    height: 30px;
+    background-color: darkgray;
+    margin-top: 0px;
+    border-style: solid;
+  }
+  
+  .text {
+    font-size: 30px;
+    margin-top: 20px;
+  }
